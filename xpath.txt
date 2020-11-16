@@ -1,0 +1,3 @@
+Links = //h1[@class = "entry-title"]/a/@href
+Titulo = //h1[@class = "entry-title"]/text()
+Cuerpo = //div[@class = "entry-content"]/p[not(@class)]/text()
